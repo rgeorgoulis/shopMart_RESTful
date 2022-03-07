@@ -1,19 +1,17 @@
-# shopMart_RESTful
-RESTful API
+# Welcome
 
-# Welcome to my front end
 # Header and footer
 Shopmart has a header and footer with implemented with custom css buttons
 
 # Home page
-the home page has the category section. I didn't have time to implement the back end so I came up with what I had.
+the home page has the category section.(Partially implemented)
 
 Best products are desplayed here
 
 as well as featured products and a slider with different selections.
 
 # products page
-the products page has all the products AND had the best seller section but I deleted and forgot to reapply it before re uploading.
+the products page has all the products
 
 # categories 
 
